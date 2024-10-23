@@ -1,1 +1,1 @@
-bu benim python dersi notlarım # python2
+2.Hafta yapmış olduğumuz çalışmaları içerir.
